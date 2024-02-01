@@ -15,3 +15,17 @@
 
 // console.log(typeof salary);
 // console.log(typeof state);
+
+
+//  ++++++++++++++++++++++++++Primitive data type are 7 Type +++++++++++++++++++++++
+
+// bb = Boolean, BigInt
+// nn= Number, Null
+// ss = String, Symbol
+// u= undefined
+
+
+//  ++++++++++++++++++++++++++  Non Primitive data type are 3 Type +++++++++++++++++++++++
+//   Array
+//   Object
+//   function Object
